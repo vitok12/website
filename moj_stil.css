@@ -1,0 +1,30 @@
+body
+{
+    background-color: lightblue;
+    text-align: justify;
+    font-family: Verdana, sans-serif;
+}
+p{
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 12px;
+}
+p.citat{
+    font-style: italic;
+    font-size: 12px;
+    border: 1px solid #000;
+    background-color: #FFFFCC;
+}
+p.odlomak1{
+    color: firebrick;
+    text-align: center;
+    text-decoration: underline;
+}
+p.odlomak2{
+    text-align: right;
+    font-style: italic;
+}
+h1{
+    color: blue;
+    font-weight: bold;
+    font-size: 2em;
+}
